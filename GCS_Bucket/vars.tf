@@ -1,7 +1,7 @@
 variable "name" {
   description = "The name of the bucket."
   type        = string
-  default     = "terrahashi"
+  default     = "hta-terraform"
 }
 
 variable "location" {

@@ -1,5 +1,5 @@
 variable "project" {
   type        = string
-  default     = "your project id"
-  description = "GCP Project to be used for creating resources"
+  default     = "258808355980"
+  description = "GCP Project ID to be used for creating resources (Find in dashboard)"
 }

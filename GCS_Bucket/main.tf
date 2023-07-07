@@ -1,6 +1,6 @@
 provider "google" {
   project     = var.project
-  credentials = file("#########################.json")  // your credentials.json to be used here
+  credentials = file("~/MEGA/cai_dat_ca_nhan/gcp/website-323009-5ac59a49229b.json")  // your credentials.json to be used here
 }
 
 #--------------------------------------------
